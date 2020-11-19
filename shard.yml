@@ -20,7 +20,7 @@ dependencies:
     version: 0.26.1
   kemal-session:
     github: kemalcr/kemal-session
-    version: 0.12.1
+    version: 0.12.0
   kemal-csrf:
     github: kemalcr/kemal-csrf
     version: 0.6.0
